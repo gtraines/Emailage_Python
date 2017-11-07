@@ -20,6 +20,7 @@ setuptools.setup(
 
     description="Official Emailage API client written in Python",
     url='https://www.emailage.com/',
+    download_url='https://github.com/emailage/Emailage_Python/tarball/1.0.2',
     author='Emailage Dev Team',
     author_email='dev@emailage.com',
 
